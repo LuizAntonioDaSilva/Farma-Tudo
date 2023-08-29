@@ -1,2 +1,2 @@
-# Farma-Tudo
-site criado por um estudante, sobre remédios e doenças
+# Acarajé
+site feito sobre a receita do acarajé
